@@ -12,7 +12,7 @@
 - 🎓 Computer Engineering Undergraduate from Sri Lanka  
 - 💻 Passionate about **Frontend Development & MERN Stack**  
 - 🎨 Freelance **Children’s Book Illustrator & Graphic Designer**  
-- 🚀 Currently working on **LogicX**  
+- 🚀 Currently working on **VES**  
 - 🌱 Learning more about **React, UI/UX, and Modern Web Design**
 
 ---
