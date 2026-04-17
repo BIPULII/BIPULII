@@ -20,7 +20,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/bipuli-yovinma-wanniarachchi" target="blank">
+<a href="https://www.linkedin.com/in/bipuli-yovinma-wanniarachchi-a327512a0/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://instagram.com/bipuliwanniarachchi" target="blank">
